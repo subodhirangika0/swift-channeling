@@ -1,0 +1,64 @@
+Abstract
+
+Our goal is to build a program that will replace the existing system that is in place for the online channeling of Doctors. Our program will solve the major issue of how slow or less organized the current system in place is. 
+The program we are building eliminates the unknown waiting times for patients and streamlines the process of a patient waiting and meeting their doctor. Even though the existing system for online channeling may be considered as new technology, we believe we can greatly improve the system as we can work on the many shortcomings that are present within the system.
+
+
+
+
+Table of contents
+
+DECLARATION	
+**Chapter 1**
+	
+Introduction	
+1.1  Online Channeling Systems	
+1.2  About Swift Channeling	
+1.3  Scope	
+1.4  Terms of Reference	
+1.5 Problem Definition	
+1.6 Project Objectives	
+1.7 Proposed Solution	
+
+**Chapter 2**	
+Methodology	
+2.1 Introduction	
+2.3 Software Process Model	
+2.4 Software Development Tools	
+2.5 Testing Strategy	
+2.6 System Implementation	
+2.6.1 Implementing the system at a hospital/clinic	
+2.6.2 Implementation by replacing existing system	
+
+**Chapter 3**	
+Analysis	
+3.1 Introduction	
+3.2 Diagrams	
+3.2.1 Use Case Diagram	
+3.2.2 Class Diagram	
+3.2.3 Sequence Diagram	
+3.3 ER Diagram	
+3.4 Chapter Summary	
+
+**Chapter 4**	
+Solution Design	
+4.1 Introduction	
+4.2 Interface/UI Design	
+4.2.1 Interface 1 - Login/Registration Interface	
+4.2.2 Interface 2 - Registration Interface	
+4.2.3 Interface 3 - Login Interface	
+4.2.4 Interface 4 - Home/Main Interface	
+4.2.5 Interface 5 - About Us Interface	
+4.2.6 Interface 6 - Contact Us Interface	
+4.2.7 Interface 7 - Availability Interface	
+4.2.8 Interface 8 - Appointment Interface	
+4.2.9 Interface 9 - Payment Interface	
+4.2.10 Interface 10 - Online Payment Gateway Interface	
+4.3 Database Design
+	
+**Chapter 5**
+	
+Conclusion	
+5.1 Drawbacks experienced during development	
+5.2 Accomplishments	
+References	
