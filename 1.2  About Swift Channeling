@@ -1,0 +1,18 @@
+SwiftChanneling is an alternate online channeling system designed to improve upon the existing online channeling systems by refining the good factors about the system and getting rid of the disadvantageous factors present. Swift channeling was built as a replacement for the existing channeling systems. Although the existing channeling system is functional, it does come with a lot of its own shortcomings. Throughout the development of SwiftChanneling, the existing channeling system was looked at as an outdated model that we improved. Some ways SwiftChanneling improves upon the existing channeling systems is by getting rid of outdated functionality like the use of only SMS to make appointments. Our system is based on improving the design of the existing channeling system and implementing new features.
+1.3  Scope 
+The scope surrounding the development of SwiftChanneling focuses on the analysis of the existing channeling systems and assessing where the development can be focused on to produce a ‘better’ online channeling system. An understanding of the existing system and SwiftChanneling’s requirements is needed to produce the proposed system.
+
+
+
+
+
+
+1.4  Terms of Reference
+
+Prior to the main development stages of our project, a clear understanding of the existing channeling system and its design was required. With a better understanding of the existing systems advantages and disadvantages, a clearer plan for our system’s design can be made. 
+To conduct our study, and investigation into the existing channeling system’s design and features was carried out.
+The study carried out included:
+A complete Study of the existing online channeling system.
+ Identifying the weaknesses or shortcomings  of the existing channeling system to find out how we can come up with better solutions.
+Assessing where the existing channeling system costs the user time to understand how we can streamline the processes of the proposed system.
+Improving the user experience by creating a favorable UX (User Interface) that improved the efficiency of navigating through the proposed system.
